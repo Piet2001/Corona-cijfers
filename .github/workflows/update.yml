@@ -1,0 +1,28 @@
+on:
+  push:
+   branches:
+    - "master"
+  schedule:
+    - cron:  '0 * * * *'
+
+jobs:
+  en_AU:
+    runs-on: ubuntu-latest
+    continue-on-error: true
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        persist-credentials: false
+        fetch-depth: 0
+
+    - name: Update
+      run: |
+        git pull
+        curl -X GET https://data.rivm.nl/data/covid-19/COVID-19_vaccinatiegraad_per_gemeente_per_week_leeftijd.json\
+    - name: Prettify code & PUSH
+      uses: creyD/prettier_action@v3.3
+      with:
+        prettier_options: --write **/*.{js,md,json}
+        commit_message: Update data
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  
