@@ -19,11 +19,6 @@ jobs:
       run: |
         git pull
         curl -X GET https://data.rivm.nl/data/covid-19/COVID-19_vaccinatiegraad_per_gemeente_per_week_leeftijd.json > vaccinatie-cijfers.json
-        curl -X GET https://data.rivm.nl/data/covid-19/COVID-19_gedrag.json > gedrag.json
-        curl -X GET https://data.rivm.nl/data/covid-19/COVID-19_aantallen_gemeente_cumulatief.json > aantallen_gemeente_cumulatief.json
-        curl -X GET https://data.rivm.nl/data/covid-19/COVID-19_ic_opnames.json > ic_opnames.json
-        curl -X GET https://data.rivm.nl/data/covid-19/COVID-19_reproductiegetal.json > reproductiegetal.json
-        curl -X GET https://data.rivm.nl/data/covid-19/COVID-19_ziekenhuisopnames.json > ziekenhuisopnames.json
     - name: Prettify code & PUSH
       uses: creyD/prettier_action@v3.3
       with:
