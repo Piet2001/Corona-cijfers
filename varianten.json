@@ -1,0 +1,4102 @@
+[
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2020-11-30",
+    "Variant_code": "B.1.351",
+    "Variant_name": "Beta",
+    "ECDC_category": "VOC",
+    "Sample_size": 107,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2020-11-30",
+    "Variant_code": "P.1",
+    "Variant_name": "Gamma",
+    "ECDC_category": "VOC",
+    "Sample_size": 107,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2020-11-30",
+    "Variant_code": "B.1.617.2",
+    "Variant_name": "Delta",
+    "ECDC_category": "VOC",
+    "Sample_size": 107,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2020-11-30",
+    "Variant_code": "B.1.620",
+    "Variant_name": "",
+    "ECDC_category": "VOI",
+    "Sample_size": 107,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2020-11-30",
+    "Variant_code": "B.1.621",
+    "Variant_name": "Mu",
+    "ECDC_category": "VOI",
+    "Sample_size": 107,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2020-11-30",
+    "Variant_code": "C.37",
+    "Variant_name": "Lambda",
+    "ECDC_category": "VOI",
+    "Sample_size": 107,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2020-11-30",
+    "Variant_code": "B.1.1.7",
+    "Variant_name": "Alpha",
+    "ECDC_category": "",
+    "Sample_size": 107,
+    "Variant_cases": 1
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2020-11-30",
+    "Variant_code": "B.1.525",
+    "Variant_name": "Eta",
+    "ECDC_category": "",
+    "Sample_size": 107,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2020-11-30",
+    "Variant_code": "B.1.617.1",
+    "Variant_name": "Kappa",
+    "ECDC_category": "",
+    "Sample_size": 107,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2020-11-30",
+    "Variant_code": "B.1.526",
+    "Variant_name": "Iota",
+    "ECDC_category": "",
+    "Sample_size": 107,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2020-12-07",
+    "Variant_code": "B.1.351",
+    "Variant_name": "Beta",
+    "ECDC_category": "VOC",
+    "Sample_size": 127,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2020-12-07",
+    "Variant_code": "P.1",
+    "Variant_name": "Gamma",
+    "ECDC_category": "VOC",
+    "Sample_size": 127,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2020-12-07",
+    "Variant_code": "B.1.617.2",
+    "Variant_name": "Delta",
+    "ECDC_category": "VOC",
+    "Sample_size": 127,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2020-12-07",
+    "Variant_code": "B.1.620",
+    "Variant_name": "",
+    "ECDC_category": "VOI",
+    "Sample_size": 127,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2020-12-07",
+    "Variant_code": "B.1.621",
+    "Variant_name": "Mu",
+    "ECDC_category": "VOI",
+    "Sample_size": 127,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2020-12-07",
+    "Variant_code": "C.37",
+    "Variant_name": "Lambda",
+    "ECDC_category": "VOI",
+    "Sample_size": 127,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2020-12-07",
+    "Variant_code": "B.1.1.7",
+    "Variant_name": "Alpha",
+    "ECDC_category": "",
+    "Sample_size": 127,
+    "Variant_cases": 1
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2020-12-07",
+    "Variant_code": "B.1.525",
+    "Variant_name": "Eta",
+    "ECDC_category": "",
+    "Sample_size": 127,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2020-12-07",
+    "Variant_code": "B.1.617.1",
+    "Variant_name": "Kappa",
+    "ECDC_category": "",
+    "Sample_size": 127,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2020-12-07",
+    "Variant_code": "B.1.526",
+    "Variant_name": "Iota",
+    "ECDC_category": "",
+    "Sample_size": 127,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2020-12-14",
+    "Variant_code": "B.1.351",
+    "Variant_name": "Beta",
+    "ECDC_category": "VOC",
+    "Sample_size": 203,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2020-12-14",
+    "Variant_code": "P.1",
+    "Variant_name": "Gamma",
+    "ECDC_category": "VOC",
+    "Sample_size": 203,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2020-12-14",
+    "Variant_code": "B.1.617.2",
+    "Variant_name": "Delta",
+    "ECDC_category": "VOC",
+    "Sample_size": 203,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2020-12-14",
+    "Variant_code": "B.1.620",
+    "Variant_name": "",
+    "ECDC_category": "VOI",
+    "Sample_size": 203,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2020-12-14",
+    "Variant_code": "B.1.621",
+    "Variant_name": "Mu",
+    "ECDC_category": "VOI",
+    "Sample_size": 203,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2020-12-14",
+    "Variant_code": "C.37",
+    "Variant_name": "Lambda",
+    "ECDC_category": "VOI",
+    "Sample_size": 203,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2020-12-14",
+    "Variant_code": "B.1.1.7",
+    "Variant_name": "Alpha",
+    "ECDC_category": "",
+    "Sample_size": 203,
+    "Variant_cases": 1
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2020-12-14",
+    "Variant_code": "B.1.525",
+    "Variant_name": "Eta",
+    "ECDC_category": "",
+    "Sample_size": 203,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2020-12-14",
+    "Variant_code": "B.1.617.1",
+    "Variant_name": "Kappa",
+    "ECDC_category": "",
+    "Sample_size": 203,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2020-12-14",
+    "Variant_code": "B.1.526",
+    "Variant_name": "Iota",
+    "ECDC_category": "",
+    "Sample_size": 203,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2020-12-21",
+    "Variant_code": "B.1.351",
+    "Variant_name": "Beta",
+    "ECDC_category": "VOC",
+    "Sample_size": 257,
+    "Variant_cases": 1
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2020-12-21",
+    "Variant_code": "P.1",
+    "Variant_name": "Gamma",
+    "ECDC_category": "VOC",
+    "Sample_size": 257,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2020-12-21",
+    "Variant_code": "B.1.617.2",
+    "Variant_name": "Delta",
+    "ECDC_category": "VOC",
+    "Sample_size": 257,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2020-12-21",
+    "Variant_code": "B.1.620",
+    "Variant_name": "",
+    "ECDC_category": "VOI",
+    "Sample_size": 257,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2020-12-21",
+    "Variant_code": "B.1.621",
+    "Variant_name": "Mu",
+    "ECDC_category": "VOI",
+    "Sample_size": 257,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2020-12-21",
+    "Variant_code": "C.37",
+    "Variant_name": "Lambda",
+    "ECDC_category": "VOI",
+    "Sample_size": 257,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2020-12-21",
+    "Variant_code": "B.1.1.7",
+    "Variant_name": "Alpha",
+    "ECDC_category": "",
+    "Sample_size": 257,
+    "Variant_cases": 5
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2020-12-21",
+    "Variant_code": "B.1.525",
+    "Variant_name": "Eta",
+    "ECDC_category": "",
+    "Sample_size": 257,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2020-12-21",
+    "Variant_code": "B.1.617.1",
+    "Variant_name": "Kappa",
+    "ECDC_category": "",
+    "Sample_size": 257,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2020-12-21",
+    "Variant_code": "B.1.526",
+    "Variant_name": "Iota",
+    "ECDC_category": "",
+    "Sample_size": 257,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2020-12-28",
+    "Variant_code": "B.1.351",
+    "Variant_name": "Beta",
+    "ECDC_category": "VOC",
+    "Sample_size": 207,
+    "Variant_cases": 1
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2020-12-28",
+    "Variant_code": "P.1",
+    "Variant_name": "Gamma",
+    "ECDC_category": "VOC",
+    "Sample_size": 207,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2020-12-28",
+    "Variant_code": "B.1.617.2",
+    "Variant_name": "Delta",
+    "ECDC_category": "VOC",
+    "Sample_size": 207,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2020-12-28",
+    "Variant_code": "B.1.620",
+    "Variant_name": "",
+    "ECDC_category": "VOI",
+    "Sample_size": 207,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2020-12-28",
+    "Variant_code": "B.1.621",
+    "Variant_name": "Mu",
+    "ECDC_category": "VOI",
+    "Sample_size": 207,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2020-12-28",
+    "Variant_code": "C.37",
+    "Variant_name": "Lambda",
+    "ECDC_category": "VOI",
+    "Sample_size": 207,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2020-12-28",
+    "Variant_code": "B.1.1.7",
+    "Variant_name": "Alpha",
+    "ECDC_category": "",
+    "Sample_size": 207,
+    "Variant_cases": 9
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2020-12-28",
+    "Variant_code": "B.1.525",
+    "Variant_name": "Eta",
+    "ECDC_category": "",
+    "Sample_size": 207,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2020-12-28",
+    "Variant_code": "B.1.617.1",
+    "Variant_name": "Kappa",
+    "ECDC_category": "",
+    "Sample_size": 207,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2020-12-28",
+    "Variant_code": "B.1.526",
+    "Variant_name": "Iota",
+    "ECDC_category": "",
+    "Sample_size": 207,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-01-04",
+    "Variant_code": "B.1.351",
+    "Variant_name": "Beta",
+    "ECDC_category": "VOC",
+    "Sample_size": 356,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-01-04",
+    "Variant_code": "P.1",
+    "Variant_name": "Gamma",
+    "ECDC_category": "VOC",
+    "Sample_size": 356,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-01-04",
+    "Variant_code": "B.1.617.2",
+    "Variant_name": "Delta",
+    "ECDC_category": "VOC",
+    "Sample_size": 356,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-01-04",
+    "Variant_code": "B.1.620",
+    "Variant_name": "",
+    "ECDC_category": "VOI",
+    "Sample_size": 356,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-01-04",
+    "Variant_code": "B.1.621",
+    "Variant_name": "Mu",
+    "ECDC_category": "VOI",
+    "Sample_size": 356,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-01-04",
+    "Variant_code": "C.37",
+    "Variant_name": "Lambda",
+    "ECDC_category": "VOI",
+    "Sample_size": 356,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-01-04",
+    "Variant_code": "B.1.1.7",
+    "Variant_name": "Alpha",
+    "ECDC_category": "",
+    "Sample_size": 356,
+    "Variant_cases": 45
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-01-04",
+    "Variant_code": "B.1.525",
+    "Variant_name": "Eta",
+    "ECDC_category": "",
+    "Sample_size": 356,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-01-04",
+    "Variant_code": "B.1.617.1",
+    "Variant_name": "Kappa",
+    "ECDC_category": "",
+    "Sample_size": 356,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-01-04",
+    "Variant_code": "B.1.526",
+    "Variant_name": "Iota",
+    "ECDC_category": "",
+    "Sample_size": 356,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-01-11",
+    "Variant_code": "B.1.351",
+    "Variant_name": "Beta",
+    "ECDC_category": "VOC",
+    "Sample_size": 303,
+    "Variant_cases": 3
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-01-11",
+    "Variant_code": "P.1",
+    "Variant_name": "Gamma",
+    "ECDC_category": "VOC",
+    "Sample_size": 303,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-01-11",
+    "Variant_code": "B.1.617.2",
+    "Variant_name": "Delta",
+    "ECDC_category": "VOC",
+    "Sample_size": 303,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-01-11",
+    "Variant_code": "B.1.620",
+    "Variant_name": "",
+    "ECDC_category": "VOI",
+    "Sample_size": 303,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-01-11",
+    "Variant_code": "B.1.621",
+    "Variant_name": "Mu",
+    "ECDC_category": "VOI",
+    "Sample_size": 303,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-01-11",
+    "Variant_code": "C.37",
+    "Variant_name": "Lambda",
+    "ECDC_category": "VOI",
+    "Sample_size": 303,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-01-11",
+    "Variant_code": "B.1.1.7",
+    "Variant_name": "Alpha",
+    "ECDC_category": "",
+    "Sample_size": 303,
+    "Variant_cases": 60
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-01-11",
+    "Variant_code": "B.1.525",
+    "Variant_name": "Eta",
+    "ECDC_category": "",
+    "Sample_size": 303,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-01-11",
+    "Variant_code": "B.1.617.1",
+    "Variant_name": "Kappa",
+    "ECDC_category": "",
+    "Sample_size": 303,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-01-11",
+    "Variant_code": "B.1.526",
+    "Variant_name": "Iota",
+    "ECDC_category": "",
+    "Sample_size": 303,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-01-18",
+    "Variant_code": "B.1.351",
+    "Variant_name": "Beta",
+    "ECDC_category": "VOC",
+    "Sample_size": 651,
+    "Variant_cases": 3
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-01-18",
+    "Variant_code": "P.1",
+    "Variant_name": "Gamma",
+    "ECDC_category": "VOC",
+    "Sample_size": 651,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-01-18",
+    "Variant_code": "B.1.617.2",
+    "Variant_name": "Delta",
+    "ECDC_category": "VOC",
+    "Sample_size": 651,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-01-18",
+    "Variant_code": "B.1.620",
+    "Variant_name": "",
+    "ECDC_category": "VOI",
+    "Sample_size": 651,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-01-18",
+    "Variant_code": "B.1.621",
+    "Variant_name": "Mu",
+    "ECDC_category": "VOI",
+    "Sample_size": 651,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-01-18",
+    "Variant_code": "C.37",
+    "Variant_name": "Lambda",
+    "ECDC_category": "VOI",
+    "Sample_size": 651,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-01-18",
+    "Variant_code": "B.1.1.7",
+    "Variant_name": "Alpha",
+    "ECDC_category": "",
+    "Sample_size": 651,
+    "Variant_cases": 158
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-01-18",
+    "Variant_code": "B.1.525",
+    "Variant_name": "Eta",
+    "ECDC_category": "",
+    "Sample_size": 651,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-01-18",
+    "Variant_code": "B.1.617.1",
+    "Variant_name": "Kappa",
+    "ECDC_category": "",
+    "Sample_size": 651,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-01-18",
+    "Variant_code": "B.1.526",
+    "Variant_name": "Iota",
+    "ECDC_category": "",
+    "Sample_size": 651,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-01-25",
+    "Variant_code": "B.1.351",
+    "Variant_name": "Beta",
+    "ECDC_category": "VOC",
+    "Sample_size": 842,
+    "Variant_cases": 14
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-01-25",
+    "Variant_code": "P.1",
+    "Variant_name": "Gamma",
+    "ECDC_category": "VOC",
+    "Sample_size": 842,
+    "Variant_cases": 1
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-01-25",
+    "Variant_code": "B.1.617.2",
+    "Variant_name": "Delta",
+    "ECDC_category": "VOC",
+    "Sample_size": 842,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-01-25",
+    "Variant_code": "B.1.620",
+    "Variant_name": "",
+    "ECDC_category": "VOI",
+    "Sample_size": 842,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-01-25",
+    "Variant_code": "B.1.621",
+    "Variant_name": "Mu",
+    "ECDC_category": "VOI",
+    "Sample_size": 842,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-01-25",
+    "Variant_code": "C.37",
+    "Variant_name": "Lambda",
+    "ECDC_category": "VOI",
+    "Sample_size": 842,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-01-25",
+    "Variant_code": "B.1.1.7",
+    "Variant_name": "Alpha",
+    "ECDC_category": "",
+    "Sample_size": 842,
+    "Variant_cases": 212
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-01-25",
+    "Variant_code": "B.1.525",
+    "Variant_name": "Eta",
+    "ECDC_category": "",
+    "Sample_size": 842,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-01-25",
+    "Variant_code": "B.1.617.1",
+    "Variant_name": "Kappa",
+    "ECDC_category": "",
+    "Sample_size": 842,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-01-25",
+    "Variant_code": "B.1.526",
+    "Variant_name": "Iota",
+    "ECDC_category": "",
+    "Sample_size": 842,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-02-01",
+    "Variant_code": "B.1.351",
+    "Variant_name": "Beta",
+    "ECDC_category": "VOC",
+    "Sample_size": 898,
+    "Variant_cases": 18
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-02-01",
+    "Variant_code": "P.1",
+    "Variant_name": "Gamma",
+    "ECDC_category": "VOC",
+    "Sample_size": 898,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-02-01",
+    "Variant_code": "B.1.617.2",
+    "Variant_name": "Delta",
+    "ECDC_category": "VOC",
+    "Sample_size": 898,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-02-01",
+    "Variant_code": "B.1.620",
+    "Variant_name": "",
+    "ECDC_category": "VOI",
+    "Sample_size": 898,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-02-01",
+    "Variant_code": "B.1.621",
+    "Variant_name": "Mu",
+    "ECDC_category": "VOI",
+    "Sample_size": 898,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-02-01",
+    "Variant_code": "C.37",
+    "Variant_name": "Lambda",
+    "ECDC_category": "VOI",
+    "Sample_size": 898,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-02-01",
+    "Variant_code": "B.1.1.7",
+    "Variant_name": "Alpha",
+    "ECDC_category": "",
+    "Sample_size": 898,
+    "Variant_cases": 205
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-02-01",
+    "Variant_code": "B.1.525",
+    "Variant_name": "Eta",
+    "ECDC_category": "",
+    "Sample_size": 898,
+    "Variant_cases": 2
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-02-01",
+    "Variant_code": "B.1.617.1",
+    "Variant_name": "Kappa",
+    "ECDC_category": "",
+    "Sample_size": 898,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-02-01",
+    "Variant_code": "B.1.526",
+    "Variant_name": "Iota",
+    "ECDC_category": "",
+    "Sample_size": 898,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-02-08",
+    "Variant_code": "B.1.351",
+    "Variant_name": "Beta",
+    "ECDC_category": "VOC",
+    "Sample_size": 955,
+    "Variant_cases": 31
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-02-08",
+    "Variant_code": "P.1",
+    "Variant_name": "Gamma",
+    "ECDC_category": "VOC",
+    "Sample_size": 955,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-02-08",
+    "Variant_code": "B.1.617.2",
+    "Variant_name": "Delta",
+    "ECDC_category": "VOC",
+    "Sample_size": 955,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-02-08",
+    "Variant_code": "B.1.620",
+    "Variant_name": "",
+    "ECDC_category": "VOI",
+    "Sample_size": 955,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-02-08",
+    "Variant_code": "B.1.621",
+    "Variant_name": "Mu",
+    "ECDC_category": "VOI",
+    "Sample_size": 955,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-02-08",
+    "Variant_code": "C.37",
+    "Variant_name": "Lambda",
+    "ECDC_category": "VOI",
+    "Sample_size": 955,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-02-08",
+    "Variant_code": "B.1.1.7",
+    "Variant_name": "Alpha",
+    "ECDC_category": "",
+    "Sample_size": 955,
+    "Variant_cases": 256
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-02-08",
+    "Variant_code": "B.1.525",
+    "Variant_name": "Eta",
+    "ECDC_category": "",
+    "Sample_size": 955,
+    "Variant_cases": 1
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-02-08",
+    "Variant_code": "B.1.617.1",
+    "Variant_name": "Kappa",
+    "ECDC_category": "",
+    "Sample_size": 955,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-02-08",
+    "Variant_code": "B.1.526",
+    "Variant_name": "Iota",
+    "ECDC_category": "",
+    "Sample_size": 955,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-02-15",
+    "Variant_code": "B.1.351",
+    "Variant_name": "Beta",
+    "ECDC_category": "VOC",
+    "Sample_size": 1043,
+    "Variant_cases": 32
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-02-15",
+    "Variant_code": "P.1",
+    "Variant_name": "Gamma",
+    "ECDC_category": "VOC",
+    "Sample_size": 1043,
+    "Variant_cases": 1
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-02-15",
+    "Variant_code": "B.1.617.2",
+    "Variant_name": "Delta",
+    "ECDC_category": "VOC",
+    "Sample_size": 1043,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-02-15",
+    "Variant_code": "B.1.620",
+    "Variant_name": "",
+    "ECDC_category": "VOI",
+    "Sample_size": 1043,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-02-15",
+    "Variant_code": "B.1.621",
+    "Variant_name": "Mu",
+    "ECDC_category": "VOI",
+    "Sample_size": 1043,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-02-15",
+    "Variant_code": "C.37",
+    "Variant_name": "Lambda",
+    "ECDC_category": "VOI",
+    "Sample_size": 1043,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-02-15",
+    "Variant_code": "B.1.1.7",
+    "Variant_name": "Alpha",
+    "ECDC_category": "",
+    "Sample_size": 1043,
+    "Variant_cases": 612
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-02-15",
+    "Variant_code": "B.1.525",
+    "Variant_name": "Eta",
+    "ECDC_category": "",
+    "Sample_size": 1043,
+    "Variant_cases": 4
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-02-15",
+    "Variant_code": "B.1.617.1",
+    "Variant_name": "Kappa",
+    "ECDC_category": "",
+    "Sample_size": 1043,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-02-15",
+    "Variant_code": "B.1.526",
+    "Variant_name": "Iota",
+    "ECDC_category": "",
+    "Sample_size": 1043,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-02-22",
+    "Variant_code": "B.1.351",
+    "Variant_name": "Beta",
+    "ECDC_category": "VOC",
+    "Sample_size": 1037,
+    "Variant_cases": 19
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-02-22",
+    "Variant_code": "P.1",
+    "Variant_name": "Gamma",
+    "ECDC_category": "VOC",
+    "Sample_size": 1037,
+    "Variant_cases": 3
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-02-22",
+    "Variant_code": "B.1.617.2",
+    "Variant_name": "Delta",
+    "ECDC_category": "VOC",
+    "Sample_size": 1037,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-02-22",
+    "Variant_code": "B.1.620",
+    "Variant_name": "",
+    "ECDC_category": "VOI",
+    "Sample_size": 1037,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-02-22",
+    "Variant_code": "B.1.621",
+    "Variant_name": "Mu",
+    "ECDC_category": "VOI",
+    "Sample_size": 1037,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-02-22",
+    "Variant_code": "C.37",
+    "Variant_name": "Lambda",
+    "ECDC_category": "VOI",
+    "Sample_size": 1037,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-02-22",
+    "Variant_code": "B.1.1.7",
+    "Variant_name": "Alpha",
+    "ECDC_category": "",
+    "Sample_size": 1037,
+    "Variant_cases": 794
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-02-22",
+    "Variant_code": "B.1.525",
+    "Variant_name": "Eta",
+    "ECDC_category": "",
+    "Sample_size": 1037,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-02-22",
+    "Variant_code": "B.1.617.1",
+    "Variant_name": "Kappa",
+    "ECDC_category": "",
+    "Sample_size": 1037,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-02-22",
+    "Variant_code": "B.1.526",
+    "Variant_name": "Iota",
+    "ECDC_category": "",
+    "Sample_size": 1037,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-03-01",
+    "Variant_code": "B.1.351",
+    "Variant_name": "Beta",
+    "ECDC_category": "VOC",
+    "Sample_size": 1515,
+    "Variant_cases": 24
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-03-01",
+    "Variant_code": "P.1",
+    "Variant_name": "Gamma",
+    "ECDC_category": "VOC",
+    "Sample_size": 1515,
+    "Variant_cases": 10
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-03-01",
+    "Variant_code": "B.1.617.2",
+    "Variant_name": "Delta",
+    "ECDC_category": "VOC",
+    "Sample_size": 1515,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-03-01",
+    "Variant_code": "B.1.620",
+    "Variant_name": "",
+    "ECDC_category": "VOI",
+    "Sample_size": 1515,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-03-01",
+    "Variant_code": "B.1.621",
+    "Variant_name": "Mu",
+    "ECDC_category": "VOI",
+    "Sample_size": 1515,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-03-01",
+    "Variant_code": "C.37",
+    "Variant_name": "Lambda",
+    "ECDC_category": "VOI",
+    "Sample_size": 1515,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-03-01",
+    "Variant_code": "B.1.1.7",
+    "Variant_name": "Alpha",
+    "ECDC_category": "",
+    "Sample_size": 1515,
+    "Variant_cases": 1269
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-03-01",
+    "Variant_code": "B.1.525",
+    "Variant_name": "Eta",
+    "ECDC_category": "",
+    "Sample_size": 1515,
+    "Variant_cases": 7
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-03-01",
+    "Variant_code": "B.1.617.1",
+    "Variant_name": "Kappa",
+    "ECDC_category": "",
+    "Sample_size": 1515,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-03-01",
+    "Variant_code": "B.1.526",
+    "Variant_name": "Iota",
+    "ECDC_category": "",
+    "Sample_size": 1515,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-03-08",
+    "Variant_code": "B.1.351",
+    "Variant_name": "Beta",
+    "ECDC_category": "VOC",
+    "Sample_size": 1973,
+    "Variant_cases": 56
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-03-08",
+    "Variant_code": "P.1",
+    "Variant_name": "Gamma",
+    "ECDC_category": "VOC",
+    "Sample_size": 1973,
+    "Variant_cases": 13
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-03-08",
+    "Variant_code": "B.1.617.2",
+    "Variant_name": "Delta",
+    "ECDC_category": "VOC",
+    "Sample_size": 1973,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-03-08",
+    "Variant_code": "B.1.620",
+    "Variant_name": "",
+    "ECDC_category": "VOI",
+    "Sample_size": 1973,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-03-08",
+    "Variant_code": "B.1.621",
+    "Variant_name": "Mu",
+    "ECDC_category": "VOI",
+    "Sample_size": 1973,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-03-08",
+    "Variant_code": "C.37",
+    "Variant_name": "Lambda",
+    "ECDC_category": "VOI",
+    "Sample_size": 1973,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-03-08",
+    "Variant_code": "B.1.1.7",
+    "Variant_name": "Alpha",
+    "ECDC_category": "",
+    "Sample_size": 1973,
+    "Variant_cases": 1726
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-03-08",
+    "Variant_code": "B.1.525",
+    "Variant_name": "Eta",
+    "ECDC_category": "",
+    "Sample_size": 1973,
+    "Variant_cases": 5
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-03-08",
+    "Variant_code": "B.1.617.1",
+    "Variant_name": "Kappa",
+    "ECDC_category": "",
+    "Sample_size": 1973,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-03-08",
+    "Variant_code": "B.1.526",
+    "Variant_name": "Iota",
+    "ECDC_category": "",
+    "Sample_size": 1973,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-03-15",
+    "Variant_code": "B.1.351",
+    "Variant_name": "Beta",
+    "ECDC_category": "VOC",
+    "Sample_size": 1560,
+    "Variant_cases": 55
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-03-15",
+    "Variant_code": "P.1",
+    "Variant_name": "Gamma",
+    "ECDC_category": "VOC",
+    "Sample_size": 1560,
+    "Variant_cases": 23
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-03-15",
+    "Variant_code": "B.1.617.2",
+    "Variant_name": "Delta",
+    "ECDC_category": "VOC",
+    "Sample_size": 1560,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-03-15",
+    "Variant_code": "B.1.620",
+    "Variant_name": "",
+    "ECDC_category": "VOI",
+    "Sample_size": 1560,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-03-15",
+    "Variant_code": "B.1.621",
+    "Variant_name": "Mu",
+    "ECDC_category": "VOI",
+    "Sample_size": 1560,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-03-15",
+    "Variant_code": "C.37",
+    "Variant_name": "Lambda",
+    "ECDC_category": "VOI",
+    "Sample_size": 1560,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-03-15",
+    "Variant_code": "B.1.1.7",
+    "Variant_name": "Alpha",
+    "ECDC_category": "",
+    "Sample_size": 1560,
+    "Variant_cases": 1397
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-03-15",
+    "Variant_code": "B.1.525",
+    "Variant_name": "Eta",
+    "ECDC_category": "",
+    "Sample_size": 1560,
+    "Variant_cases": 2
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-03-15",
+    "Variant_code": "B.1.617.1",
+    "Variant_name": "Kappa",
+    "ECDC_category": "",
+    "Sample_size": 1560,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-03-15",
+    "Variant_code": "B.1.526",
+    "Variant_name": "Iota",
+    "ECDC_category": "",
+    "Sample_size": 1560,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-03-22",
+    "Variant_code": "B.1.351",
+    "Variant_name": "Beta",
+    "ECDC_category": "VOC",
+    "Sample_size": 1601,
+    "Variant_cases": 39
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-03-22",
+    "Variant_code": "P.1",
+    "Variant_name": "Gamma",
+    "ECDC_category": "VOC",
+    "Sample_size": 1601,
+    "Variant_cases": 23
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-03-22",
+    "Variant_code": "B.1.617.2",
+    "Variant_name": "Delta",
+    "ECDC_category": "VOC",
+    "Sample_size": 1601,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-03-22",
+    "Variant_code": "B.1.620",
+    "Variant_name": "",
+    "ECDC_category": "VOI",
+    "Sample_size": 1601,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-03-22",
+    "Variant_code": "B.1.621",
+    "Variant_name": "Mu",
+    "ECDC_category": "VOI",
+    "Sample_size": 1601,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-03-22",
+    "Variant_code": "C.37",
+    "Variant_name": "Lambda",
+    "ECDC_category": "VOI",
+    "Sample_size": 1601,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-03-22",
+    "Variant_code": "B.1.1.7",
+    "Variant_name": "Alpha",
+    "ECDC_category": "",
+    "Sample_size": 1601,
+    "Variant_cases": 1494
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-03-22",
+    "Variant_code": "B.1.525",
+    "Variant_name": "Eta",
+    "ECDC_category": "",
+    "Sample_size": 1601,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-03-22",
+    "Variant_code": "B.1.617.1",
+    "Variant_name": "Kappa",
+    "ECDC_category": "",
+    "Sample_size": 1601,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-03-22",
+    "Variant_code": "B.1.526",
+    "Variant_name": "Iota",
+    "ECDC_category": "",
+    "Sample_size": 1601,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-03-29",
+    "Variant_code": "B.1.351",
+    "Variant_name": "Beta",
+    "ECDC_category": "VOC",
+    "Sample_size": 1726,
+    "Variant_cases": 40
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-03-29",
+    "Variant_code": "P.1",
+    "Variant_name": "Gamma",
+    "ECDC_category": "VOC",
+    "Sample_size": 1726,
+    "Variant_cases": 15
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-03-29",
+    "Variant_code": "B.1.617.2",
+    "Variant_name": "Delta",
+    "ECDC_category": "VOC",
+    "Sample_size": 1726,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-03-29",
+    "Variant_code": "B.1.620",
+    "Variant_name": "",
+    "ECDC_category": "VOI",
+    "Sample_size": 1726,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-03-29",
+    "Variant_code": "B.1.621",
+    "Variant_name": "Mu",
+    "ECDC_category": "VOI",
+    "Sample_size": 1726,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-03-29",
+    "Variant_code": "C.37",
+    "Variant_name": "Lambda",
+    "ECDC_category": "VOI",
+    "Sample_size": 1726,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-03-29",
+    "Variant_code": "B.1.1.7",
+    "Variant_name": "Alpha",
+    "ECDC_category": "",
+    "Sample_size": 1726,
+    "Variant_cases": 1634
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-03-29",
+    "Variant_code": "B.1.525",
+    "Variant_name": "Eta",
+    "ECDC_category": "",
+    "Sample_size": 1726,
+    "Variant_cases": 1
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-03-29",
+    "Variant_code": "B.1.617.1",
+    "Variant_name": "Kappa",
+    "ECDC_category": "",
+    "Sample_size": 1726,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-03-29",
+    "Variant_code": "B.1.526",
+    "Variant_name": "Iota",
+    "ECDC_category": "",
+    "Sample_size": 1726,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-04-05",
+    "Variant_code": "B.1.351",
+    "Variant_name": "Beta",
+    "ECDC_category": "VOC",
+    "Sample_size": 1531,
+    "Variant_cases": 28
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-04-05",
+    "Variant_code": "P.1",
+    "Variant_name": "Gamma",
+    "ECDC_category": "VOC",
+    "Sample_size": 1531,
+    "Variant_cases": 23
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-04-05",
+    "Variant_code": "B.1.617.2",
+    "Variant_name": "Delta",
+    "ECDC_category": "VOC",
+    "Sample_size": 1531,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-04-05",
+    "Variant_code": "B.1.620",
+    "Variant_name": "",
+    "ECDC_category": "VOI",
+    "Sample_size": 1531,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-04-05",
+    "Variant_code": "B.1.621",
+    "Variant_name": "Mu",
+    "ECDC_category": "VOI",
+    "Sample_size": 1531,
+    "Variant_cases": 1
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-04-05",
+    "Variant_code": "C.37",
+    "Variant_name": "Lambda",
+    "ECDC_category": "VOI",
+    "Sample_size": 1531,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-04-05",
+    "Variant_code": "B.1.1.7",
+    "Variant_name": "Alpha",
+    "ECDC_category": "",
+    "Sample_size": 1531,
+    "Variant_cases": 1457
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-04-05",
+    "Variant_code": "B.1.525",
+    "Variant_name": "Eta",
+    "ECDC_category": "",
+    "Sample_size": 1531,
+    "Variant_cases": 2
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-04-05",
+    "Variant_code": "B.1.617.1",
+    "Variant_name": "Kappa",
+    "ECDC_category": "",
+    "Sample_size": 1531,
+    "Variant_cases": 2
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-04-05",
+    "Variant_code": "B.1.526",
+    "Variant_name": "Iota",
+    "ECDC_category": "",
+    "Sample_size": 1531,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-04-12",
+    "Variant_code": "B.1.351",
+    "Variant_name": "Beta",
+    "ECDC_category": "VOC",
+    "Sample_size": 1674,
+    "Variant_cases": 20
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-04-12",
+    "Variant_code": "P.1",
+    "Variant_name": "Gamma",
+    "ECDC_category": "VOC",
+    "Sample_size": 1674,
+    "Variant_cases": 21
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-04-12",
+    "Variant_code": "B.1.617.2",
+    "Variant_name": "Delta",
+    "ECDC_category": "VOC",
+    "Sample_size": 1674,
+    "Variant_cases": 1
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-04-12",
+    "Variant_code": "B.1.620",
+    "Variant_name": "",
+    "ECDC_category": "VOI",
+    "Sample_size": 1674,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-04-12",
+    "Variant_code": "B.1.621",
+    "Variant_name": "Mu",
+    "ECDC_category": "VOI",
+    "Sample_size": 1674,
+    "Variant_cases": 1
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-04-12",
+    "Variant_code": "C.37",
+    "Variant_name": "Lambda",
+    "ECDC_category": "VOI",
+    "Sample_size": 1674,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-04-12",
+    "Variant_code": "B.1.1.7",
+    "Variant_name": "Alpha",
+    "ECDC_category": "",
+    "Sample_size": 1674,
+    "Variant_cases": 1617
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-04-12",
+    "Variant_code": "B.1.525",
+    "Variant_name": "Eta",
+    "ECDC_category": "",
+    "Sample_size": 1674,
+    "Variant_cases": 1
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-04-12",
+    "Variant_code": "B.1.617.1",
+    "Variant_name": "Kappa",
+    "ECDC_category": "",
+    "Sample_size": 1674,
+    "Variant_cases": 1
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-04-12",
+    "Variant_code": "B.1.526",
+    "Variant_name": "Iota",
+    "ECDC_category": "",
+    "Sample_size": 1674,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-04-19",
+    "Variant_code": "B.1.351",
+    "Variant_name": "Beta",
+    "ECDC_category": "VOC",
+    "Sample_size": 1588,
+    "Variant_cases": 18
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-04-19",
+    "Variant_code": "P.1",
+    "Variant_name": "Gamma",
+    "ECDC_category": "VOC",
+    "Sample_size": 1588,
+    "Variant_cases": 27
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-04-19",
+    "Variant_code": "B.1.617.2",
+    "Variant_name": "Delta",
+    "ECDC_category": "VOC",
+    "Sample_size": 1588,
+    "Variant_cases": 2
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-04-19",
+    "Variant_code": "B.1.620",
+    "Variant_name": "",
+    "ECDC_category": "VOI",
+    "Sample_size": 1588,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-04-19",
+    "Variant_code": "B.1.621",
+    "Variant_name": "Mu",
+    "ECDC_category": "VOI",
+    "Sample_size": 1588,
+    "Variant_cases": 2
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-04-19",
+    "Variant_code": "C.37",
+    "Variant_name": "Lambda",
+    "ECDC_category": "VOI",
+    "Sample_size": 1588,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-04-19",
+    "Variant_code": "B.1.1.7",
+    "Variant_name": "Alpha",
+    "ECDC_category": "",
+    "Sample_size": 1588,
+    "Variant_cases": 1523
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-04-19",
+    "Variant_code": "B.1.525",
+    "Variant_name": "Eta",
+    "ECDC_category": "",
+    "Sample_size": 1588,
+    "Variant_cases": 4
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-04-19",
+    "Variant_code": "B.1.617.1",
+    "Variant_name": "Kappa",
+    "ECDC_category": "",
+    "Sample_size": 1588,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-04-19",
+    "Variant_code": "B.1.526",
+    "Variant_name": "Iota",
+    "ECDC_category": "",
+    "Sample_size": 1588,
+    "Variant_cases": 2
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-04-26",
+    "Variant_code": "B.1.351",
+    "Variant_name": "Beta",
+    "ECDC_category": "VOC",
+    "Sample_size": 1687,
+    "Variant_cases": 7
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-04-26",
+    "Variant_code": "P.1",
+    "Variant_name": "Gamma",
+    "ECDC_category": "VOC",
+    "Sample_size": 1687,
+    "Variant_cases": 28
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-04-26",
+    "Variant_code": "B.1.617.2",
+    "Variant_name": "Delta",
+    "ECDC_category": "VOC",
+    "Sample_size": 1687,
+    "Variant_cases": 4
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-04-26",
+    "Variant_code": "B.1.620",
+    "Variant_name": "",
+    "ECDC_category": "VOI",
+    "Sample_size": 1687,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-04-26",
+    "Variant_code": "B.1.621",
+    "Variant_name": "Mu",
+    "ECDC_category": "VOI",
+    "Sample_size": 1687,
+    "Variant_cases": 1
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-04-26",
+    "Variant_code": "C.37",
+    "Variant_name": "Lambda",
+    "ECDC_category": "VOI",
+    "Sample_size": 1687,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-04-26",
+    "Variant_code": "B.1.1.7",
+    "Variant_name": "Alpha",
+    "ECDC_category": "",
+    "Sample_size": 1687,
+    "Variant_cases": 1637
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-04-26",
+    "Variant_code": "B.1.525",
+    "Variant_name": "Eta",
+    "ECDC_category": "",
+    "Sample_size": 1687,
+    "Variant_cases": 1
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-04-26",
+    "Variant_code": "B.1.617.1",
+    "Variant_name": "Kappa",
+    "ECDC_category": "",
+    "Sample_size": 1687,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-04-26",
+    "Variant_code": "B.1.526",
+    "Variant_name": "Iota",
+    "ECDC_category": "",
+    "Sample_size": 1687,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-05-03",
+    "Variant_code": "B.1.351",
+    "Variant_name": "Beta",
+    "ECDC_category": "VOC",
+    "Sample_size": 1683,
+    "Variant_cases": 12
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-05-03",
+    "Variant_code": "P.1",
+    "Variant_name": "Gamma",
+    "ECDC_category": "VOC",
+    "Sample_size": 1683,
+    "Variant_cases": 35
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-05-03",
+    "Variant_code": "B.1.617.2",
+    "Variant_name": "Delta",
+    "ECDC_category": "VOC",
+    "Sample_size": 1683,
+    "Variant_cases": 1
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-05-03",
+    "Variant_code": "B.1.620",
+    "Variant_name": "",
+    "ECDC_category": "VOI",
+    "Sample_size": 1683,
+    "Variant_cases": 1
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-05-03",
+    "Variant_code": "B.1.621",
+    "Variant_name": "Mu",
+    "ECDC_category": "VOI",
+    "Sample_size": 1683,
+    "Variant_cases": 3
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-05-03",
+    "Variant_code": "C.37",
+    "Variant_name": "Lambda",
+    "ECDC_category": "VOI",
+    "Sample_size": 1683,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-05-03",
+    "Variant_code": "B.1.1.7",
+    "Variant_name": "Alpha",
+    "ECDC_category": "",
+    "Sample_size": 1683,
+    "Variant_cases": 1620
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-05-03",
+    "Variant_code": "B.1.525",
+    "Variant_name": "Eta",
+    "ECDC_category": "",
+    "Sample_size": 1683,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-05-03",
+    "Variant_code": "B.1.617.1",
+    "Variant_name": "Kappa",
+    "ECDC_category": "",
+    "Sample_size": 1683,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-05-03",
+    "Variant_code": "B.1.526",
+    "Variant_name": "Iota",
+    "ECDC_category": "",
+    "Sample_size": 1683,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-05-10",
+    "Variant_code": "B.1.351",
+    "Variant_name": "Beta",
+    "ECDC_category": "VOC",
+    "Sample_size": 1647,
+    "Variant_cases": 8
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-05-10",
+    "Variant_code": "P.1",
+    "Variant_name": "Gamma",
+    "ECDC_category": "VOC",
+    "Sample_size": 1647,
+    "Variant_cases": 31
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-05-10",
+    "Variant_code": "B.1.617.2",
+    "Variant_name": "Delta",
+    "ECDC_category": "VOC",
+    "Sample_size": 1647,
+    "Variant_cases": 11
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-05-10",
+    "Variant_code": "B.1.620",
+    "Variant_name": "",
+    "ECDC_category": "VOI",
+    "Sample_size": 1647,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-05-10",
+    "Variant_code": "B.1.621",
+    "Variant_name": "Mu",
+    "ECDC_category": "VOI",
+    "Sample_size": 1647,
+    "Variant_cases": 3
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-05-10",
+    "Variant_code": "C.37",
+    "Variant_name": "Lambda",
+    "ECDC_category": "VOI",
+    "Sample_size": 1647,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-05-10",
+    "Variant_code": "B.1.1.7",
+    "Variant_name": "Alpha",
+    "ECDC_category": "",
+    "Sample_size": 1647,
+    "Variant_cases": 1574
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-05-10",
+    "Variant_code": "B.1.525",
+    "Variant_name": "Eta",
+    "ECDC_category": "",
+    "Sample_size": 1647,
+    "Variant_cases": 1
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-05-10",
+    "Variant_code": "B.1.617.1",
+    "Variant_name": "Kappa",
+    "ECDC_category": "",
+    "Sample_size": 1647,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-05-10",
+    "Variant_code": "B.1.526",
+    "Variant_name": "Iota",
+    "ECDC_category": "",
+    "Sample_size": 1647,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-05-17",
+    "Variant_code": "B.1.351",
+    "Variant_name": "Beta",
+    "ECDC_category": "VOC",
+    "Sample_size": 1366,
+    "Variant_cases": 3
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-05-17",
+    "Variant_code": "P.1",
+    "Variant_name": "Gamma",
+    "ECDC_category": "VOC",
+    "Sample_size": 1366,
+    "Variant_cases": 32
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-05-17",
+    "Variant_code": "B.1.617.2",
+    "Variant_name": "Delta",
+    "ECDC_category": "VOC",
+    "Sample_size": 1366,
+    "Variant_cases": 10
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-05-17",
+    "Variant_code": "B.1.620",
+    "Variant_name": "",
+    "ECDC_category": "VOI",
+    "Sample_size": 1366,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-05-17",
+    "Variant_code": "B.1.621",
+    "Variant_name": "Mu",
+    "ECDC_category": "VOI",
+    "Sample_size": 1366,
+    "Variant_cases": 5
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-05-17",
+    "Variant_code": "C.37",
+    "Variant_name": "Lambda",
+    "ECDC_category": "VOI",
+    "Sample_size": 1366,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-05-17",
+    "Variant_code": "B.1.1.7",
+    "Variant_name": "Alpha",
+    "ECDC_category": "",
+    "Sample_size": 1366,
+    "Variant_cases": 1301
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-05-17",
+    "Variant_code": "B.1.525",
+    "Variant_name": "Eta",
+    "ECDC_category": "",
+    "Sample_size": 1366,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-05-17",
+    "Variant_code": "B.1.617.1",
+    "Variant_name": "Kappa",
+    "ECDC_category": "",
+    "Sample_size": 1366,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-05-17",
+    "Variant_code": "B.1.526",
+    "Variant_name": "Iota",
+    "ECDC_category": "",
+    "Sample_size": 1366,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-05-24",
+    "Variant_code": "B.1.351",
+    "Variant_name": "Beta",
+    "ECDC_category": "VOC",
+    "Sample_size": 1323,
+    "Variant_cases": 3
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-05-24",
+    "Variant_code": "P.1",
+    "Variant_name": "Gamma",
+    "ECDC_category": "VOC",
+    "Sample_size": 1323,
+    "Variant_cases": 16
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-05-24",
+    "Variant_code": "B.1.617.2",
+    "Variant_name": "Delta",
+    "ECDC_category": "VOC",
+    "Sample_size": 1323,
+    "Variant_cases": 23
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-05-24",
+    "Variant_code": "B.1.620",
+    "Variant_name": "",
+    "ECDC_category": "VOI",
+    "Sample_size": 1323,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-05-24",
+    "Variant_code": "B.1.621",
+    "Variant_name": "Mu",
+    "ECDC_category": "VOI",
+    "Sample_size": 1323,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-05-24",
+    "Variant_code": "C.37",
+    "Variant_name": "Lambda",
+    "ECDC_category": "VOI",
+    "Sample_size": 1323,
+    "Variant_cases": 1
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-05-24",
+    "Variant_code": "B.1.1.7",
+    "Variant_name": "Alpha",
+    "ECDC_category": "",
+    "Sample_size": 1323,
+    "Variant_cases": 1253
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-05-24",
+    "Variant_code": "B.1.525",
+    "Variant_name": "Eta",
+    "ECDC_category": "",
+    "Sample_size": 1323,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-05-24",
+    "Variant_code": "B.1.617.1",
+    "Variant_name": "Kappa",
+    "ECDC_category": "",
+    "Sample_size": 1323,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-05-24",
+    "Variant_code": "B.1.526",
+    "Variant_name": "Iota",
+    "ECDC_category": "",
+    "Sample_size": 1323,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-05-31",
+    "Variant_code": "B.1.351",
+    "Variant_name": "Beta",
+    "ECDC_category": "VOC",
+    "Sample_size": 1271,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-05-31",
+    "Variant_code": "P.1",
+    "Variant_name": "Gamma",
+    "ECDC_category": "VOC",
+    "Sample_size": 1271,
+    "Variant_cases": 22
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-05-31",
+    "Variant_code": "B.1.617.2",
+    "Variant_name": "Delta",
+    "ECDC_category": "VOC",
+    "Sample_size": 1271,
+    "Variant_cases": 48
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-05-31",
+    "Variant_code": "B.1.620",
+    "Variant_name": "",
+    "ECDC_category": "VOI",
+    "Sample_size": 1271,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-05-31",
+    "Variant_code": "B.1.621",
+    "Variant_name": "Mu",
+    "ECDC_category": "VOI",
+    "Sample_size": 1271,
+    "Variant_cases": 4
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-05-31",
+    "Variant_code": "C.37",
+    "Variant_name": "Lambda",
+    "ECDC_category": "VOI",
+    "Sample_size": 1271,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-05-31",
+    "Variant_code": "B.1.1.7",
+    "Variant_name": "Alpha",
+    "ECDC_category": "",
+    "Sample_size": 1271,
+    "Variant_cases": 1157
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-05-31",
+    "Variant_code": "B.1.525",
+    "Variant_name": "Eta",
+    "ECDC_category": "",
+    "Sample_size": 1271,
+    "Variant_cases": 1
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-05-31",
+    "Variant_code": "B.1.617.1",
+    "Variant_name": "Kappa",
+    "ECDC_category": "",
+    "Sample_size": 1271,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-05-31",
+    "Variant_code": "B.1.526",
+    "Variant_name": "Iota",
+    "ECDC_category": "",
+    "Sample_size": 1271,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-06-07",
+    "Variant_code": "B.1.351",
+    "Variant_name": "Beta",
+    "ECDC_category": "VOC",
+    "Sample_size": 1174,
+    "Variant_cases": 1
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-06-07",
+    "Variant_code": "P.1",
+    "Variant_name": "Gamma",
+    "ECDC_category": "VOC",
+    "Sample_size": 1174,
+    "Variant_cases": 12
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-06-07",
+    "Variant_code": "B.1.617.2",
+    "Variant_name": "Delta",
+    "ECDC_category": "VOC",
+    "Sample_size": 1174,
+    "Variant_cases": 100
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-06-07",
+    "Variant_code": "B.1.620",
+    "Variant_name": "",
+    "ECDC_category": "VOI",
+    "Sample_size": 1174,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-06-07",
+    "Variant_code": "B.1.621",
+    "Variant_name": "Mu",
+    "ECDC_category": "VOI",
+    "Sample_size": 1174,
+    "Variant_cases": 5
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-06-07",
+    "Variant_code": "C.37",
+    "Variant_name": "Lambda",
+    "ECDC_category": "VOI",
+    "Sample_size": 1174,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-06-07",
+    "Variant_code": "B.1.1.7",
+    "Variant_name": "Alpha",
+    "ECDC_category": "",
+    "Sample_size": 1174,
+    "Variant_cases": 1017
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-06-07",
+    "Variant_code": "B.1.525",
+    "Variant_name": "Eta",
+    "ECDC_category": "",
+    "Sample_size": 1174,
+    "Variant_cases": 2
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-06-07",
+    "Variant_code": "B.1.617.1",
+    "Variant_name": "Kappa",
+    "ECDC_category": "",
+    "Sample_size": 1174,
+    "Variant_cases": 4
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-06-07",
+    "Variant_code": "B.1.526",
+    "Variant_name": "Iota",
+    "ECDC_category": "",
+    "Sample_size": 1174,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-06-14",
+    "Variant_code": "B.1.351",
+    "Variant_name": "Beta",
+    "ECDC_category": "VOC",
+    "Sample_size": 1038,
+    "Variant_cases": 1
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-06-14",
+    "Variant_code": "P.1",
+    "Variant_name": "Gamma",
+    "ECDC_category": "VOC",
+    "Sample_size": 1038,
+    "Variant_cases": 16
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-06-14",
+    "Variant_code": "B.1.617.2",
+    "Variant_name": "Delta",
+    "ECDC_category": "VOC",
+    "Sample_size": 1038,
+    "Variant_cases": 240
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-06-14",
+    "Variant_code": "B.1.620",
+    "Variant_name": "",
+    "ECDC_category": "VOI",
+    "Sample_size": 1038,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-06-14",
+    "Variant_code": "B.1.621",
+    "Variant_name": "Mu",
+    "ECDC_category": "VOI",
+    "Sample_size": 1038,
+    "Variant_cases": 8
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-06-14",
+    "Variant_code": "C.37",
+    "Variant_name": "Lambda",
+    "ECDC_category": "VOI",
+    "Sample_size": 1038,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-06-14",
+    "Variant_code": "B.1.1.7",
+    "Variant_name": "Alpha",
+    "ECDC_category": "",
+    "Sample_size": 1038,
+    "Variant_cases": 716
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-06-14",
+    "Variant_code": "B.1.525",
+    "Variant_name": "Eta",
+    "ECDC_category": "",
+    "Sample_size": 1038,
+    "Variant_cases": 4
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-06-14",
+    "Variant_code": "B.1.617.1",
+    "Variant_name": "Kappa",
+    "ECDC_category": "",
+    "Sample_size": 1038,
+    "Variant_cases": 6
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-06-14",
+    "Variant_code": "B.1.526",
+    "Variant_name": "Iota",
+    "ECDC_category": "",
+    "Sample_size": 1038,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-06-21",
+    "Variant_code": "B.1.351",
+    "Variant_name": "Beta",
+    "ECDC_category": "VOC",
+    "Sample_size": 679,
+    "Variant_cases": 1
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-06-21",
+    "Variant_code": "P.1",
+    "Variant_name": "Gamma",
+    "ECDC_category": "VOC",
+    "Sample_size": 679,
+    "Variant_cases": 7
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-06-21",
+    "Variant_code": "B.1.617.2",
+    "Variant_name": "Delta",
+    "ECDC_category": "VOC",
+    "Sample_size": 679,
+    "Variant_cases": 275
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-06-21",
+    "Variant_code": "B.1.620",
+    "Variant_name": "",
+    "ECDC_category": "VOI",
+    "Sample_size": 679,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-06-21",
+    "Variant_code": "B.1.621",
+    "Variant_name": "Mu",
+    "ECDC_category": "VOI",
+    "Sample_size": 679,
+    "Variant_cases": 3
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-06-21",
+    "Variant_code": "C.37",
+    "Variant_name": "Lambda",
+    "ECDC_category": "VOI",
+    "Sample_size": 679,
+    "Variant_cases": 1
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-06-21",
+    "Variant_code": "B.1.1.7",
+    "Variant_name": "Alpha",
+    "ECDC_category": "",
+    "Sample_size": 679,
+    "Variant_cases": 366
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-06-21",
+    "Variant_code": "B.1.525",
+    "Variant_name": "Eta",
+    "ECDC_category": "",
+    "Sample_size": 679,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-06-21",
+    "Variant_code": "B.1.617.1",
+    "Variant_name": "Kappa",
+    "ECDC_category": "",
+    "Sample_size": 679,
+    "Variant_cases": 1
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-06-21",
+    "Variant_code": "B.1.526",
+    "Variant_name": "Iota",
+    "ECDC_category": "",
+    "Sample_size": 679,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-06-28",
+    "Variant_code": "B.1.351",
+    "Variant_name": "Beta",
+    "ECDC_category": "VOC",
+    "Sample_size": 928,
+    "Variant_cases": 1
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-06-28",
+    "Variant_code": "P.1",
+    "Variant_name": "Gamma",
+    "ECDC_category": "VOC",
+    "Sample_size": 928,
+    "Variant_cases": 3
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-06-28",
+    "Variant_code": "B.1.617.2",
+    "Variant_name": "Delta",
+    "ECDC_category": "VOC",
+    "Sample_size": 928,
+    "Variant_cases": 630
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-06-28",
+    "Variant_code": "B.1.620",
+    "Variant_name": "",
+    "ECDC_category": "VOI",
+    "Sample_size": 928,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-06-28",
+    "Variant_code": "B.1.621",
+    "Variant_name": "Mu",
+    "ECDC_category": "VOI",
+    "Sample_size": 928,
+    "Variant_cases": 4
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-06-28",
+    "Variant_code": "C.37",
+    "Variant_name": "Lambda",
+    "ECDC_category": "VOI",
+    "Sample_size": 928,
+    "Variant_cases": 1
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-06-28",
+    "Variant_code": "B.1.1.7",
+    "Variant_name": "Alpha",
+    "ECDC_category": "",
+    "Sample_size": 928,
+    "Variant_cases": 257
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-06-28",
+    "Variant_code": "B.1.525",
+    "Variant_name": "Eta",
+    "ECDC_category": "",
+    "Sample_size": 928,
+    "Variant_cases": 1
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-06-28",
+    "Variant_code": "B.1.617.1",
+    "Variant_name": "Kappa",
+    "ECDC_category": "",
+    "Sample_size": 928,
+    "Variant_cases": 1
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-06-28",
+    "Variant_code": "B.1.526",
+    "Variant_name": "Iota",
+    "ECDC_category": "",
+    "Sample_size": 928,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-07-05",
+    "Variant_code": "B.1.351",
+    "Variant_name": "Beta",
+    "ECDC_category": "VOC",
+    "Sample_size": 2452,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-07-05",
+    "Variant_code": "P.1",
+    "Variant_name": "Gamma",
+    "ECDC_category": "VOC",
+    "Sample_size": 2452,
+    "Variant_cases": 3
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-07-05",
+    "Variant_code": "B.1.617.2",
+    "Variant_name": "Delta",
+    "ECDC_category": "VOC",
+    "Sample_size": 2452,
+    "Variant_cases": 2093
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-07-05",
+    "Variant_code": "B.1.620",
+    "Variant_name": "",
+    "ECDC_category": "VOI",
+    "Sample_size": 2452,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-07-05",
+    "Variant_code": "B.1.621",
+    "Variant_name": "Mu",
+    "ECDC_category": "VOI",
+    "Sample_size": 2452,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-07-05",
+    "Variant_code": "C.37",
+    "Variant_name": "Lambda",
+    "ECDC_category": "VOI",
+    "Sample_size": 2452,
+    "Variant_cases": 8
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-07-05",
+    "Variant_code": "B.1.1.7",
+    "Variant_name": "Alpha",
+    "ECDC_category": "",
+    "Sample_size": 2452,
+    "Variant_cases": 335
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-07-05",
+    "Variant_code": "B.1.525",
+    "Variant_name": "Eta",
+    "ECDC_category": "",
+    "Sample_size": 2452,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-07-05",
+    "Variant_code": "B.1.617.1",
+    "Variant_name": "Kappa",
+    "ECDC_category": "",
+    "Sample_size": 2452,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-07-05",
+    "Variant_code": "B.1.526",
+    "Variant_name": "Iota",
+    "ECDC_category": "",
+    "Sample_size": 2452,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-07-12",
+    "Variant_code": "B.1.351",
+    "Variant_name": "Beta",
+    "ECDC_category": "VOC",
+    "Sample_size": 2235,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-07-12",
+    "Variant_code": "P.1",
+    "Variant_name": "Gamma",
+    "ECDC_category": "VOC",
+    "Sample_size": 2235,
+    "Variant_cases": 2
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-07-12",
+    "Variant_code": "B.1.617.2",
+    "Variant_name": "Delta",
+    "ECDC_category": "VOC",
+    "Sample_size": 2235,
+    "Variant_cases": 2037
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-07-12",
+    "Variant_code": "B.1.620",
+    "Variant_name": "",
+    "ECDC_category": "VOI",
+    "Sample_size": 2235,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-07-12",
+    "Variant_code": "B.1.621",
+    "Variant_name": "Mu",
+    "ECDC_category": "VOI",
+    "Sample_size": 2235,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-07-12",
+    "Variant_code": "C.37",
+    "Variant_name": "Lambda",
+    "ECDC_category": "VOI",
+    "Sample_size": 2235,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-07-12",
+    "Variant_code": "B.1.1.7",
+    "Variant_name": "Alpha",
+    "ECDC_category": "",
+    "Sample_size": 2235,
+    "Variant_cases": 171
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-07-12",
+    "Variant_code": "B.1.525",
+    "Variant_name": "Eta",
+    "ECDC_category": "",
+    "Sample_size": 2235,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-07-12",
+    "Variant_code": "B.1.617.1",
+    "Variant_name": "Kappa",
+    "ECDC_category": "",
+    "Sample_size": 2235,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-07-12",
+    "Variant_code": "B.1.526",
+    "Variant_name": "Iota",
+    "ECDC_category": "",
+    "Sample_size": 2235,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-07-19",
+    "Variant_code": "B.1.351",
+    "Variant_name": "Beta",
+    "ECDC_category": "VOC",
+    "Sample_size": 2121,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-07-19",
+    "Variant_code": "P.1",
+    "Variant_name": "Gamma",
+    "ECDC_category": "VOC",
+    "Sample_size": 2121,
+    "Variant_cases": 4
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-07-19",
+    "Variant_code": "B.1.617.2",
+    "Variant_name": "Delta",
+    "ECDC_category": "VOC",
+    "Sample_size": 2121,
+    "Variant_cases": 2031
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-07-19",
+    "Variant_code": "B.1.620",
+    "Variant_name": "",
+    "ECDC_category": "VOI",
+    "Sample_size": 2121,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-07-19",
+    "Variant_code": "B.1.621",
+    "Variant_name": "Mu",
+    "ECDC_category": "VOI",
+    "Sample_size": 2121,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-07-19",
+    "Variant_code": "C.37",
+    "Variant_name": "Lambda",
+    "ECDC_category": "VOI",
+    "Sample_size": 2121,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-07-19",
+    "Variant_code": "B.1.1.7",
+    "Variant_name": "Alpha",
+    "ECDC_category": "",
+    "Sample_size": 2121,
+    "Variant_cases": 85
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-07-19",
+    "Variant_code": "B.1.525",
+    "Variant_name": "Eta",
+    "ECDC_category": "",
+    "Sample_size": 2121,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-07-19",
+    "Variant_code": "B.1.617.1",
+    "Variant_name": "Kappa",
+    "ECDC_category": "",
+    "Sample_size": 2121,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-07-19",
+    "Variant_code": "B.1.526",
+    "Variant_name": "Iota",
+    "ECDC_category": "",
+    "Sample_size": 2121,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-07-26",
+    "Variant_code": "B.1.351",
+    "Variant_name": "Beta",
+    "ECDC_category": "VOC",
+    "Sample_size": 1723,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-07-26",
+    "Variant_code": "P.1",
+    "Variant_name": "Gamma",
+    "ECDC_category": "VOC",
+    "Sample_size": 1723,
+    "Variant_cases": 2
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-07-26",
+    "Variant_code": "B.1.617.2",
+    "Variant_name": "Delta",
+    "ECDC_category": "VOC",
+    "Sample_size": 1723,
+    "Variant_cases": 1666
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-07-26",
+    "Variant_code": "B.1.620",
+    "Variant_name": "",
+    "ECDC_category": "VOI",
+    "Sample_size": 1723,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-07-26",
+    "Variant_code": "B.1.621",
+    "Variant_name": "Mu",
+    "ECDC_category": "VOI",
+    "Sample_size": 1723,
+    "Variant_cases": 3
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-07-26",
+    "Variant_code": "C.37",
+    "Variant_name": "Lambda",
+    "ECDC_category": "VOI",
+    "Sample_size": 1723,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-07-26",
+    "Variant_code": "B.1.1.7",
+    "Variant_name": "Alpha",
+    "ECDC_category": "",
+    "Sample_size": 1723,
+    "Variant_cases": 50
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-07-26",
+    "Variant_code": "B.1.525",
+    "Variant_name": "Eta",
+    "ECDC_category": "",
+    "Sample_size": 1723,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-07-26",
+    "Variant_code": "B.1.617.1",
+    "Variant_name": "Kappa",
+    "ECDC_category": "",
+    "Sample_size": 1723,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-07-26",
+    "Variant_code": "B.1.526",
+    "Variant_name": "Iota",
+    "ECDC_category": "",
+    "Sample_size": 1723,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-08-02",
+    "Variant_code": "B.1.351",
+    "Variant_name": "Beta",
+    "ECDC_category": "VOC",
+    "Sample_size": 1452,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-08-02",
+    "Variant_code": "P.1",
+    "Variant_name": "Gamma",
+    "ECDC_category": "VOC",
+    "Sample_size": 1452,
+    "Variant_cases": 1
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-08-02",
+    "Variant_code": "B.1.617.2",
+    "Variant_name": "Delta",
+    "ECDC_category": "VOC",
+    "Sample_size": 1452,
+    "Variant_cases": 1431
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-08-02",
+    "Variant_code": "B.1.620",
+    "Variant_name": "",
+    "ECDC_category": "VOI",
+    "Sample_size": 1452,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-08-02",
+    "Variant_code": "B.1.621",
+    "Variant_name": "Mu",
+    "ECDC_category": "VOI",
+    "Sample_size": 1452,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-08-02",
+    "Variant_code": "C.37",
+    "Variant_name": "Lambda",
+    "ECDC_category": "VOI",
+    "Sample_size": 1452,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-08-02",
+    "Variant_code": "B.1.1.7",
+    "Variant_name": "Alpha",
+    "ECDC_category": "",
+    "Sample_size": 1452,
+    "Variant_cases": 19
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-08-02",
+    "Variant_code": "B.1.525",
+    "Variant_name": "Eta",
+    "ECDC_category": "",
+    "Sample_size": 1452,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-08-02",
+    "Variant_code": "B.1.617.1",
+    "Variant_name": "Kappa",
+    "ECDC_category": "",
+    "Sample_size": 1452,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-08-02",
+    "Variant_code": "B.1.526",
+    "Variant_name": "Iota",
+    "ECDC_category": "",
+    "Sample_size": 1452,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-08-09",
+    "Variant_code": "B.1.351",
+    "Variant_name": "Beta",
+    "ECDC_category": "VOC",
+    "Sample_size": 1420,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-08-09",
+    "Variant_code": "P.1",
+    "Variant_name": "Gamma",
+    "ECDC_category": "VOC",
+    "Sample_size": 1420,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-08-09",
+    "Variant_code": "B.1.617.2",
+    "Variant_name": "Delta",
+    "ECDC_category": "VOC",
+    "Sample_size": 1420,
+    "Variant_cases": 1387
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-08-09",
+    "Variant_code": "B.1.620",
+    "Variant_name": "",
+    "ECDC_category": "VOI",
+    "Sample_size": 1420,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-08-09",
+    "Variant_code": "B.1.621",
+    "Variant_name": "Mu",
+    "ECDC_category": "VOI",
+    "Sample_size": 1420,
+    "Variant_cases": 1
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-08-09",
+    "Variant_code": "C.37",
+    "Variant_name": "Lambda",
+    "ECDC_category": "VOI",
+    "Sample_size": 1420,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-08-09",
+    "Variant_code": "B.1.1.7",
+    "Variant_name": "Alpha",
+    "ECDC_category": "",
+    "Sample_size": 1420,
+    "Variant_cases": 32
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-08-09",
+    "Variant_code": "B.1.525",
+    "Variant_name": "Eta",
+    "ECDC_category": "",
+    "Sample_size": 1420,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-08-09",
+    "Variant_code": "B.1.617.1",
+    "Variant_name": "Kappa",
+    "ECDC_category": "",
+    "Sample_size": 1420,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-08-09",
+    "Variant_code": "B.1.526",
+    "Variant_name": "Iota",
+    "ECDC_category": "",
+    "Sample_size": 1420,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-08-16",
+    "Variant_code": "B.1.351",
+    "Variant_name": "Beta",
+    "ECDC_category": "VOC",
+    "Sample_size": 1713,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-08-16",
+    "Variant_code": "P.1",
+    "Variant_name": "Gamma",
+    "ECDC_category": "VOC",
+    "Sample_size": 1713,
+    "Variant_cases": 2
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-08-16",
+    "Variant_code": "B.1.617.2",
+    "Variant_name": "Delta",
+    "ECDC_category": "VOC",
+    "Sample_size": 1713,
+    "Variant_cases": 1705
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-08-16",
+    "Variant_code": "B.1.620",
+    "Variant_name": "",
+    "ECDC_category": "VOI",
+    "Sample_size": 1713,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-08-16",
+    "Variant_code": "B.1.621",
+    "Variant_name": "Mu",
+    "ECDC_category": "VOI",
+    "Sample_size": 1713,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-08-16",
+    "Variant_code": "C.37",
+    "Variant_name": "Lambda",
+    "ECDC_category": "VOI",
+    "Sample_size": 1713,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-08-16",
+    "Variant_code": "B.1.1.7",
+    "Variant_name": "Alpha",
+    "ECDC_category": "",
+    "Sample_size": 1713,
+    "Variant_cases": 6
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-08-16",
+    "Variant_code": "B.1.525",
+    "Variant_name": "Eta",
+    "ECDC_category": "",
+    "Sample_size": 1713,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-08-16",
+    "Variant_code": "B.1.617.1",
+    "Variant_name": "Kappa",
+    "ECDC_category": "",
+    "Sample_size": 1713,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-08-16",
+    "Variant_code": "B.1.526",
+    "Variant_name": "Iota",
+    "ECDC_category": "",
+    "Sample_size": 1713,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-08-23",
+    "Variant_code": "B.1.351",
+    "Variant_name": "Beta",
+    "ECDC_category": "VOC",
+    "Sample_size": 1563,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-08-23",
+    "Variant_code": "P.1",
+    "Variant_name": "Gamma",
+    "ECDC_category": "VOC",
+    "Sample_size": 1563,
+    "Variant_cases": 1
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-08-23",
+    "Variant_code": "B.1.617.2",
+    "Variant_name": "Delta",
+    "ECDC_category": "VOC",
+    "Sample_size": 1563,
+    "Variant_cases": 1559
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-08-23",
+    "Variant_code": "B.1.620",
+    "Variant_name": "",
+    "ECDC_category": "VOI",
+    "Sample_size": 1563,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-08-23",
+    "Variant_code": "B.1.621",
+    "Variant_name": "Mu",
+    "ECDC_category": "VOI",
+    "Sample_size": 1563,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-08-23",
+    "Variant_code": "C.37",
+    "Variant_name": "Lambda",
+    "ECDC_category": "VOI",
+    "Sample_size": 1563,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-08-23",
+    "Variant_code": "B.1.1.7",
+    "Variant_name": "Alpha",
+    "ECDC_category": "",
+    "Sample_size": 1563,
+    "Variant_cases": 2
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-08-23",
+    "Variant_code": "B.1.525",
+    "Variant_name": "Eta",
+    "ECDC_category": "",
+    "Sample_size": 1563,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-08-23",
+    "Variant_code": "B.1.617.1",
+    "Variant_name": "Kappa",
+    "ECDC_category": "",
+    "Sample_size": 1563,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-08-23",
+    "Variant_code": "B.1.526",
+    "Variant_name": "Iota",
+    "ECDC_category": "",
+    "Sample_size": 1563,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-08-30",
+    "Variant_code": "B.1.351",
+    "Variant_name": "Beta",
+    "ECDC_category": "VOC",
+    "Sample_size": 1379,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-08-30",
+    "Variant_code": "P.1",
+    "Variant_name": "Gamma",
+    "ECDC_category": "VOC",
+    "Sample_size": 1379,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-08-30",
+    "Variant_code": "B.1.617.2",
+    "Variant_name": "Delta",
+    "ECDC_category": "VOC",
+    "Sample_size": 1379,
+    "Variant_cases": 1377
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-08-30",
+    "Variant_code": "B.1.620",
+    "Variant_name": "",
+    "ECDC_category": "VOI",
+    "Sample_size": 1379,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-08-30",
+    "Variant_code": "B.1.621",
+    "Variant_name": "Mu",
+    "ECDC_category": "VOI",
+    "Sample_size": 1379,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-08-30",
+    "Variant_code": "C.37",
+    "Variant_name": "Lambda",
+    "ECDC_category": "VOI",
+    "Sample_size": 1379,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-08-30",
+    "Variant_code": "B.1.1.7",
+    "Variant_name": "Alpha",
+    "ECDC_category": "",
+    "Sample_size": 1379,
+    "Variant_cases": 2
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-08-30",
+    "Variant_code": "B.1.525",
+    "Variant_name": "Eta",
+    "ECDC_category": "",
+    "Sample_size": 1379,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-08-30",
+    "Variant_code": "B.1.617.1",
+    "Variant_name": "Kappa",
+    "ECDC_category": "",
+    "Sample_size": 1379,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-08-30",
+    "Variant_code": "B.1.526",
+    "Variant_name": "Iota",
+    "ECDC_category": "",
+    "Sample_size": 1379,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-09-06",
+    "Variant_code": "B.1.351",
+    "Variant_name": "Beta",
+    "ECDC_category": "VOC",
+    "Sample_size": 963,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-09-06",
+    "Variant_code": "P.1",
+    "Variant_name": "Gamma",
+    "ECDC_category": "VOC",
+    "Sample_size": 963,
+    "Variant_cases": 1
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-09-06",
+    "Variant_code": "B.1.617.2",
+    "Variant_name": "Delta",
+    "ECDC_category": "VOC",
+    "Sample_size": 963,
+    "Variant_cases": 961
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-09-06",
+    "Variant_code": "B.1.620",
+    "Variant_name": "",
+    "ECDC_category": "VOI",
+    "Sample_size": 963,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-09-06",
+    "Variant_code": "B.1.621",
+    "Variant_name": "Mu",
+    "ECDC_category": "VOI",
+    "Sample_size": 963,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-09-06",
+    "Variant_code": "C.37",
+    "Variant_name": "Lambda",
+    "ECDC_category": "VOI",
+    "Sample_size": 963,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-09-06",
+    "Variant_code": "B.1.1.7",
+    "Variant_name": "Alpha",
+    "ECDC_category": "",
+    "Sample_size": 963,
+    "Variant_cases": 1
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-09-06",
+    "Variant_code": "B.1.525",
+    "Variant_name": "Eta",
+    "ECDC_category": "",
+    "Sample_size": 963,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-09-06",
+    "Variant_code": "B.1.617.1",
+    "Variant_name": "Kappa",
+    "ECDC_category": "",
+    "Sample_size": 963,
+    "Variant_cases": 0
+  },
+  {
+    "Version": 1,
+    "Date_of_report": "2021-09-23 10:50:13",
+    "Date_of_statistics_week_start": "2021-09-06",
+    "Variant_code": "B.1.526",
+    "Variant_name": "Iota",
+    "ECDC_category": "",
+    "Sample_size": 963,
+    "Variant_cases": 0
+  }
+]
