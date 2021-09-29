@@ -19,6 +19,7 @@ jobs:
       run: |
         git pull
         curl -X GET https://data.rivm.nl/data/covid-19/COVID-19_vaccinatiegraad_per_gemeente_per_week_leeftijd.json > vaccinatie-cijfers.json
+        curl -X GET https://data.rivm.nl/data/covid-19/COVID-19_varianten.json > varianten.json
     - name: Prettify code & PUSH
       uses: creyD/prettier_action@v3.3
       with:
