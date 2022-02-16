@@ -12315,6 +12315,114 @@
     "Version": 2,
     "Date_of_report": "2022-02-16 10:30:00",
     "Date_of_statistics": "2022-02-07",
+    "Region_level": "Gemeente",
+    "Region_code": "GM1980",
+    "Region_name": "Dijk en Waard",
+    "Birth_year": "<=2009",
+    "Vaccination_coverage_partly": "83",
+    "Vaccination_coverage_completed": "81",
+    "Age_group": "12+"
+  },
+  {
+    "Version": 2,
+    "Date_of_report": "2022-02-16 10:30:00",
+    "Date_of_statistics": "2022-02-07",
+    "Region_level": "Gemeente",
+    "Region_code": "GM1980",
+    "Region_name": "Dijk en Waard",
+    "Birth_year": "<2004",
+    "Vaccination_coverage_partly": "84",
+    "Vaccination_coverage_completed": "82",
+    "Age_group": "18+"
+  },
+  {
+    "Version": 2,
+    "Date_of_report": "2022-02-16 10:30:00",
+    "Date_of_statistics": "2022-02-07",
+    "Region_level": "Gemeente",
+    "Region_code": "GM1980",
+    "Region_name": "Dijk en Waard",
+    "Birth_year": "2004-2009",
+    "Vaccination_coverage_partly": "68",
+    "Vaccination_coverage_completed": "67",
+    "Age_group": "12-17"
+  },
+  {
+    "Version": 2,
+    "Date_of_report": "2022-02-16 10:30:00",
+    "Date_of_statistics": "2022-02-07",
+    "Region_level": "Gemeente",
+    "Region_code": "GM1982",
+    "Region_name": "Land van Cuijk",
+    "Birth_year": "<=2009",
+    "Vaccination_coverage_partly": "90",
+    "Vaccination_coverage_completed": "89",
+    "Age_group": "12+"
+  },
+  {
+    "Version": 2,
+    "Date_of_report": "2022-02-16 10:30:00",
+    "Date_of_statistics": "2022-02-07",
+    "Region_level": "Gemeente",
+    "Region_code": "GM1982",
+    "Region_name": "Land van Cuijk",
+    "Birth_year": "<2004",
+    "Vaccination_coverage_partly": "91",
+    "Vaccination_coverage_completed": "90",
+    "Age_group": "18+"
+  },
+  {
+    "Version": 2,
+    "Date_of_report": "2022-02-16 10:30:00",
+    "Date_of_statistics": "2022-02-07",
+    "Region_level": "Gemeente",
+    "Region_code": "GM1982",
+    "Region_name": "Land van Cuijk",
+    "Birth_year": "2004-2009",
+    "Vaccination_coverage_partly": "83",
+    "Vaccination_coverage_completed": "81",
+    "Age_group": "12-17"
+  },
+  {
+    "Version": 2,
+    "Date_of_report": "2022-02-16 10:30:00",
+    "Date_of_statistics": "2022-02-07",
+    "Region_level": "Gemeente",
+    "Region_code": "GM1991",
+    "Region_name": "Maashorst",
+    "Birth_year": "<=2009",
+    "Vaccination_coverage_partly": "89",
+    "Vaccination_coverage_completed": "87",
+    "Age_group": "12+"
+  },
+  {
+    "Version": 2,
+    "Date_of_report": "2022-02-16 10:30:00",
+    "Date_of_statistics": "2022-02-07",
+    "Region_level": "Gemeente",
+    "Region_code": "GM1991",
+    "Region_name": "Maashorst",
+    "Birth_year": "<2004",
+    "Vaccination_coverage_partly": "89",
+    "Vaccination_coverage_completed": "88",
+    "Age_group": "18+"
+  },
+  {
+    "Version": 2,
+    "Date_of_report": "2022-02-16 10:30:00",
+    "Date_of_statistics": "2022-02-07",
+    "Region_level": "Gemeente",
+    "Region_code": "GM1991",
+    "Region_name": "Maashorst",
+    "Birth_year": "2004-2009",
+    "Vaccination_coverage_partly": "78",
+    "Vaccination_coverage_completed": "77",
+    "Age_group": "12-17"
+  },
+  {
+    "Version": 2,
+    "Date_of_report": "2022-02-16 10:30:00",
+    "Date_of_statistics": "2022-02-07",
     "Region_level": "Veiligheidsregio",
     "Region_code": "VR01",
     "Region_name": "Groningen",
@@ -12643,8 +12751,8 @@
     "Region_code": "VR10",
     "Region_name": "Noord-Holland-Noord",
     "Birth_year": "<=2009",
-    "Vaccination_coverage_partly": ">=95",
-    "Vaccination_coverage_completed": "94",
+    "Vaccination_coverage_partly": "83",
+    "Vaccination_coverage_completed": "82",
     "Age_group": "12+"
   },
   {
@@ -12655,8 +12763,8 @@
     "Region_code": "VR10",
     "Region_name": "Noord-Holland-Noord",
     "Birth_year": "<2004",
-    "Vaccination_coverage_partly": ">=95",
-    "Vaccination_coverage_completed": ">=95",
+    "Vaccination_coverage_partly": "84",
+    "Vaccination_coverage_completed": "83",
     "Age_group": "18+"
   },
   {
@@ -12667,8 +12775,8 @@
     "Region_code": "VR10",
     "Region_name": "Noord-Holland-Noord",
     "Birth_year": "2004-2009",
-    "Vaccination_coverage_partly": "82",
-    "Vaccination_coverage_completed": "81",
+    "Vaccination_coverage_partly": "70",
+    "Vaccination_coverage_completed": "69",
     "Age_group": "12-17"
   },
   {
@@ -13039,8 +13147,8 @@
     "Region_code": "VR21",
     "Region_name": "Brabant-Noord",
     "Birth_year": "<=2009",
-    "Vaccination_coverage_partly": ">=95",
-    "Vaccination_coverage_completed": ">=95",
+    "Vaccination_coverage_partly": "89",
+    "Vaccination_coverage_completed": "87",
     "Age_group": "12+"
   },
   {
@@ -13051,8 +13159,8 @@
     "Region_code": "VR21",
     "Region_name": "Brabant-Noord",
     "Birth_year": "<2004",
-    "Vaccination_coverage_partly": ">=95",
-    "Vaccination_coverage_completed": ">=95",
+    "Vaccination_coverage_partly": "89",
+    "Vaccination_coverage_completed": "88",
     "Age_group": "18+"
   },
   {
@@ -13063,8 +13171,8 @@
     "Region_code": "VR21",
     "Region_name": "Brabant-Noord",
     "Birth_year": "2004-2009",
-    "Vaccination_coverage_partly": ">=95",
-    "Vaccination_coverage_completed": ">=95",
+    "Vaccination_coverage_partly": "80",
+    "Vaccination_coverage_completed": "78",
     "Age_group": "12-17"
   },
   {
